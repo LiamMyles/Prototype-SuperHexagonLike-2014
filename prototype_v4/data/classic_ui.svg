@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="360px" height="640px" viewBox="0 0 360 640" enable-background="new 0 0 360 640" xml:space="preserve">
+<g>
+	<rect x="0" y="490" fill="#2B3990" width="360" height="150"/>
+	<rect x="0" y="0" fill="#2B3990" width="360" height="48.543"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-45.2844" y1="254.7659" x2="156.7156" y2="254.7659" gradientTransform="matrix(1 0 0 -1 123.2847 814.7661)">
+		<stop  offset="0" style="stop-color:#315583"/>
+		<stop  offset="0.3351" style="stop-color:#0E113C"/>
+		<stop  offset="0.5053" style="stop-color:#2B3368"/>
+		<stop  offset="0.6915" style="stop-color:#0E113C"/>
+		<stop  offset="1" style="stop-color:#315583"/>
+	</linearGradient>
+	<rect x="78" y="510" fill="url(#SVGID_1_)" width="202" height="100"/>
+	
+		<radialGradient id="SVGID_2_" cx="56.7156" cy="254.4446" r="30" gradientTransform="matrix(1 0 0 -1 123.2847 814.7661)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FDC70C"/>
+		<stop  offset="0.5249" style="stop-color:#F3903F"/>
+		<stop  offset="1" style="stop-color:#EC673D"/>
+	</radialGradient>
+	<circle fill="url(#SVGID_2_)" cx="180" cy="560.322" r="30"/>
+	
+		<radialGradient id="SVGID_3_" cx="56.7151" cy="254.4436" r="27.788" gradientTransform="matrix(1 0 0 -1 123.2847 814.7661)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#EC673D"/>
+		<stop  offset="0.5249" style="stop-color:#F3903F"/>
+		<stop  offset="1" style="stop-color:#FDC70C"/>
+	</radialGradient>
+	<polygon fill="url(#SVGID_3_)" points="180,540.012 186.723,532.636 189.249,542.291 198.63,538.886 196.379,548.608 
+		206.269,549.951 199.757,557.516 207.889,563.301 198.608,566.972 203.121,575.872 193.197,574.812 193.057,584.791 
+		184.764,579.237 180,588.009 175.236,579.237 166.944,584.791 166.803,574.812 156.879,575.872 161.392,566.972 152.111,563.301 
+		160.243,557.516 153.731,549.951 163.621,548.608 161.37,538.886 170.751,542.291 173.277,532.636 	"/>
+	<polygon fill="#134A89" points="230.714,598.788 269.836,560.322 230.714,521.855 	"/>
+	<polygon fill="#134A89" points="127.286,598.467 88.164,560 127.286,521.532 	"/>
+</g>
+</svg>

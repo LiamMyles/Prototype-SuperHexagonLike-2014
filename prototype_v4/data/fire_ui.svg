@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="360px" height="640px" viewBox="0 0 360 640" enable-background="new 0 0 360 640" xml:space="preserve">
+<g>
+	<rect x="0" y="490" fill="#2B3990" width="360" height="150"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-20.7844" y1="255.2659" x2="56.364" y2="255.2659" gradientTransform="matrix(1 0 0 -1 123.2847 814.7661)">
+		<stop  offset="0" style="stop-color:#4D81C2"/>
+		<stop  offset="1" style="stop-color:#0E113C"/>
+	</linearGradient>
+	<rect x="102.5" y="509.5" fill="url(#SVGID_1_)" width="77.148" height="100"/>
+	
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-178.0662" y1="255.2659" x2="-103.7136" y2="255.2659" gradientTransform="matrix(-1 0 0 -1 75.9341 814.7661)">
+		<stop  offset="0" style="stop-color:#4D81C2"/>
+		<stop  offset="1" style="stop-color:#0E113C"/>
+	</linearGradient>
+	<rect x="179.648" y="509.5" fill="url(#SVGID_2_)" width="74.353" height="100"/>
+	
+		<radialGradient id="SVGID_3_" cx="-64.2844" cy="253.7659" r="30" gradientTransform="matrix(1 0 0 -1 123.2847 814.7661)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FDC70C"/>
+		<stop  offset="0.5249" style="stop-color:#F3903F"/>
+		<stop  offset="1" style="stop-color:#EC673D"/>
+	</radialGradient>
+	<circle fill="url(#SVGID_3_)" cx="59" cy="561" r="30"/>
+	
+		<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="-20.7844" y1="255.2659" x2="130.7156" y2="255.2659" gradientTransform="matrix(1 0 0 -1 123.2847 814.7661)">
+		<stop  offset="0" style="stop-color:#315583"/>
+		<stop  offset="0.5" style="stop-color:#0E113C"/>
+		<stop  offset="1" style="stop-color:#315583"/>
+	</linearGradient>
+	<rect x="102.5" y="509.5" fill="url(#SVGID_4_)" width="151.5" height="100"/>
+	
+		<radialGradient id="SVGID_5_" cx="175.7151" cy="255.2659" r="30" gradientTransform="matrix(1 0 0 -1 123.2847 814.7661)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#2D7191"/>
+		<stop  offset="0.2605" style="stop-color:#297395"/>
+		<stop  offset="0.5347" style="stop-color:#197BA2"/>
+		<stop  offset="0.8141" style="stop-color:#0087BA"/>
+		<stop  offset="1" style="stop-color:#0095D5"/>
+	</radialGradient>
+	<circle fill="url(#SVGID_5_)" cx="299" cy="559.5" r="30"/>
+	<polygon fill="#134A89" points="207.952,597.967 247.074,559.5 207.952,521.032 	"/>
+	<polygon fill="#134A89" points="152.708,597.967 113.586,559.5 152.708,521.032 	"/>
+	
+		<radialGradient id="SVGID_6_" cx="-64.2849" cy="253.7664" r="27.7883" gradientTransform="matrix(1 0 0 -1 123.2847 814.7661)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#EC673D"/>
+		<stop  offset="0.5249" style="stop-color:#F3903F"/>
+		<stop  offset="1" style="stop-color:#FDC70C"/>
+	</radialGradient>
+	<polygon fill="url(#SVGID_6_)" points="59,540.689 65.723,533.313 68.249,542.97 77.63,539.563 75.379,549.285 85.269,550.63 
+		78.757,558.193 86.889,563.979 77.608,567.649 82.121,576.551 72.197,575.489 72.056,585.469 63.763,579.914 59,588.687 
+		54.237,579.914 45.944,585.469 45.803,575.489 35.879,576.551 40.392,567.649 31.111,563.979 39.243,558.193 32.731,550.63 
+		42.621,549.285 40.37,539.563 49.751,542.97 52.277,533.313 	"/>
+	
+		<radialGradient id="SVGID_7_" cx="175.7151" cy="255.7664" r="27.788" gradientTransform="matrix(1 0 0 -1 123.2847 814.7661)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#0095D5"/>
+		<stop  offset="1" style="stop-color:#2D7191"/>
+	</radialGradient>
+	<polygon fill="url(#SVGID_7_)" points="299,538.689 305.723,531.313 308.248,540.97 317.63,537.563 315.379,547.285 
+		325.269,548.63 318.757,556.193 326.889,561.979 317.608,565.649 322.12,574.551 312.197,573.489 312.057,583.469 303.764,577.914 
+		299,586.687 294.236,577.914 285.943,583.469 285.803,573.489 275.879,574.551 280.392,565.649 271.111,561.979 279.243,556.193 
+		272.731,548.63 282.621,547.285 280.37,537.563 289.751,540.97 292.277,531.313 	"/>
+	<rect x="0" y="0" fill="#2B3990" width="360" height="48.543"/>
+</g>
+</svg>
